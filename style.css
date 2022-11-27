@@ -43,6 +43,7 @@
 } /*  change 03*/
 
 .u-section-1 .u-text-3 {
+  color: #fff;
   line-height: 2;
   font-size: 1.125rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.25);
@@ -1540,7 +1541,7 @@
 }
 
 .u-section-9 .u-image-1 {
-  height: 486px;
+  height: 740px;
   object-position: 100% 100%;
   background-position: 0% 0%;
   margin-top: 0;
@@ -1613,7 +1614,7 @@
   }
 
   .u-section-9 .u-image-1 {
-    height: 448px;
+    height: 500px;
     object-position: 49.34% 100%;
   }
 
@@ -1646,7 +1647,7 @@
   }
 
   .u-section-9 .u-image-1 {
-    height: 399px;
+    height: 470px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
@@ -1678,7 +1679,7 @@
   }
 
   .u-section-9 .u-image-1 {
-    height: 315px;
+    height: 350px;
     object-position: 53.96% 100%;
   }
 
